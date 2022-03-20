@@ -1,1 +1,1 @@
-# pyKeylogger
+Just a school assignment.
