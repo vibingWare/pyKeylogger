@@ -1,1 +1,1 @@
-Just a school assignment.
+School assignment that got me an A.
